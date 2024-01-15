@@ -1,2 +1,2 @@
 # portfolio
-Made this entire thing only by using HTML and CSS
+Made this entire project only by using HTML and CSS
